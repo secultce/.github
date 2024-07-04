@@ -4,9 +4,16 @@
 
 ## **Objetivo**
 
-**Como** dev ou ...
+**Como** uma pessoa ...
 **Quero** realizar ...
 **Para** acontecer ...
+
+## **Critérios de Aceitação**
+
+- [ ] titulo  
+**Dado que** uma pessoa ...
+**Quando** faço  
+**então** resulta
 
 
 
@@ -17,13 +24,6 @@
 ## **Fora de Escopo**
 
 - fora_de_escopo
-
-## **Critérios de Aceitação**
-
-- [ ] titulo  
-**Dado que** algo  
-**Quando** faço  
-**então** resulta
 
 
 # Observações
